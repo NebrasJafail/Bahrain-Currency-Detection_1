@@ -28,8 +28,8 @@ A deep learning project that detects and recognizes Bahraini currency (BHD) in i
 
 | Metric | Value |
 |---|---|
-| Precision | 0.818 |
-| Recall | 0.870 |
+| Precision | 0.79415 |
+| Recall | 0.75529 |
 
 
 ## Key questions
