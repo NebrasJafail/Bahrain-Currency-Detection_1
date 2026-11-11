@@ -50,3 +50,4 @@ A deep learning project that detects and recognizes Bahraini currency (BHD) in i
 
 
 ## Streamlit
+Link: https://bahrain-currency-detection-cup3h65d3hnp2rpzbp4t53.streamlit.app/
